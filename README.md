@@ -370,6 +370,7 @@ else
 end
 
 
+
 --anti afk kick
 local vu = game:GetService("VirtualUser")
 game:GetService("Players").LocalPlayer.Idled:connect(function()
